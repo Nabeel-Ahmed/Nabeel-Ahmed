@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.notion.so/images/page-cover/webb1.jpg"  />
+  <img src="https://www.notion.so/images/page-cover/webb1.jpg"  />
 </div>
 
 ###
